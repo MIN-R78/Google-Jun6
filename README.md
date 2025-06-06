@@ -21,8 +21,8 @@ Users can interactively select the parser and target PDF at runtime, with suppor
 
 ```bash
 # 1. Clone the repository:
-git clone https://github.com/MIN-R78/Google-Jun.git
-cd Google-Jun
+git clone https://github.com/MIN-R78/Google-Jun6.git
+cd Google-Jun6
 
 # 2. Install dependencies:
 pip install -r requirements.txt
